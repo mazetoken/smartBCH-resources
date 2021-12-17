@@ -1,5 +1,5 @@
 # smartBCH-resources
-Bitcoin Cash SmartBCH Tools & Resources
+Bitcoin Cash SmartBCH Tools and Resources
 
 ## Basic info
 
@@ -7,13 +7,15 @@ Smart Bitcoin Cash (SmartBCH) - a sidechain for Bitcoin Cash - [website](https:/
 
 SmartBCH [whitepaper](https://docs.smartbch.org/smartbch/smartbch_whitepaper-en)
 
-SmartScan - [SmartBCH Explorer)(https://smartscan.cash)
+SmartBCH [Telegram group](https://t.me/smartbch_community)
+
+SmartBCH [Discord](https://discord.gg/rZqUxSdG)
 
 ----------------------------------------------------------------------------------------------
 
 ## Wallets
 
-MetaMask/Brave browser SmartBCH network settings:
+MetaMask/Brave browser (or other with custom RPC) SmartBCH network settings:
 
 ```
 Network name: SmartBCH
@@ -26,7 +28,7 @@ or
 https://smartbch.electroncash.de
 Chain ID: 10000
 Currency Symbol: BCH
-Explorer: https://smartscan.cash (Mainnet)
+Explorer: https://smartscan.cash
 
 ```
 
@@ -43,29 +45,35 @@ Explorer: https://smartscan.cash
 
 ```
 
-Amber SmartBCH [testnet faucet](http://34.92.246.27:8080/faucet)
+SmartBCH [testnet faucet](http://34.92.246.27:8080/faucet)
 
 ----------------------------------------------------------------------------------------------
 
 ### Tools & resources list
 
-[MarketCap](https://marketcap.cash) - [Github](https://github.com/MarketCap-Cash/SmartBCH-Token-List)
+SmartScan - [SmartBCH Explorer)](https://smartscan.cash)
 
-SmartSLP [Manager](https://smartbch.fountainhead.cash/smartslp/) - [Github](https://github.com/blockparty-sh/smartSLP-manager)
+MarketCap [website](https://marketcap.cash) | [Github](https://github.com/MarketCap-Cash/SmartBCH-Token-List)
 
-[Send2multi](https://send2multi.github.io/) - [Github](https://github.com/send2multi)
+Defillama [SmartBCH](https://defillama.com/chain/smartBCH)
+
+SmartBCH [DexScreener](https://dexscreener.com/smartbch)
+
+SmartSLP [Manager](https://smartbch.fountainhead.cash/smartslp/) | [Github](https://github.com/blockparty-sh/smartSLP-manager)
+
+[Send2multi](https://send2multi.github.io/) | [Github](https://github.com/send2multi)
 
 Blockchain [Cheques](https://www.checkbook.cash/)
 
-[GridEx](https://www.gridex.cash/) Simple limit orders - [Github](https://github.com/limitorders/limitorders)
+GridEx [website](https://www.gridex.cash/) - simple limit orders | [Github](https://github.com/limitorders/limitorders)
 
-Addresses of SEP20 [tokens and DApps](https://sep20tokens.github.io) - [Github](https://github.com/sep20tokens/sep20tokens.github.io)
+Addresses of SEP20 [tokens and DApps](https://sep20tokens.github.io) | [Github](https://github.com/sep20tokens/sep20tokens.github.io)
 
-SmartBCH [token list](https://zh.thedev.id/sep20tokens) - [Github](https://github.com/zh/smartbch-token-list)
+SmartBCH [token list](https://zh.thedev.id/sep20tokens) | [Github](https://github.com/zh/smartbch-token-list)
 
-[Revoke](https://revoke.cash/) ERC20/SEP20 allowance
+Revoke [website](https://revoke.cash/) - ERC20/SEP20 allowance
 
-A small web based smartBCH wallet [powered by MetaMask](https://smartmask.cash) - [Github](https://github.com/zquestz/smartmask)
+SmartMask [website](https://smartmask.cash) a small web based smartBCH wallet powered by MetaMask | [Github](https://github.com/zquestz/smartmask)
 
 Token [transfer scanner](http://smartbch.tuxpaper.nu/TokenTransferScanner/)
 
@@ -73,18 +81,22 @@ Contract [verifier](https://www.contractverifier.com)
 
 BCH-SEP20-BCH [bridge](https://hop.cash)
 
+CoinFlex [exchange](https://coinflex.com/) - BCH-SEP20 bridge
+
 MISTswap [Telegram group](https://t.me/MistSwapOfficial)
 
 MISTswap [Discord](https://discord.gg/mistswapdex)
 
-BaNet [smartBCH NFT collections ](https://ba.net/amkt-smartbch/collections.html)
+BaNet [SmartBCH NFT collections ](https://ba.net/amkt-smartbch/collections.html)
 
-Oasis [NFT Marketplace](https://oasis.cash) - [Github](https://github.com/oasis-nft)
+Oasis [SMartBCH NFT Marketplace](https://oasis.cash) - [Github](https://github.com/oasis-nft)
 
-Defillama [SmartBCH](https://defillama.com/chain/smartBCH)
+---------------------------------------------------------------------------------------------
+
+## Other
 
 OpenZeppelin [Contracts Wizard](https://wizard.openzeppelin.com/)
 
-[One Click Dapp](https://oneclickdapp.com/) - [Github](https://github.com/oneclickdapp/)
+One Click Dapp [website](https://oneclickdapp.com/) | [Github](https://github.com/oneclickdapp/)
 
 ----------------------------------------------------------------------------------------------
