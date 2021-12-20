@@ -1,5 +1,4 @@
-# smartBCH-resources
-Bitcoin Cash SmartBCH Tools and Resources
+# Bitcoin Cash SmartBCH Tools and Resources
 
 ## Basic info
 
@@ -51,52 +50,56 @@ SmartBCH [testnet faucet](http://34.92.246.27:8080/faucet)
 
 ### Tools & resources list
 
-SmartScan - [SmartBCH Explorer)](https://smartscan.cash)
+SmartScan - [SmartBCH Explorer)](https://smartscan.cash). [Github](https://github.com/jay-bch/smartbch-explorer)
 
-MarketCap [website](https://marketcap.cash) | [Github](https://github.com/MarketCap-Cash/SmartBCH-Token-List)
+MarketCap [website](https://marketcap.cash). [Github](https://github.com/MarketCap-Cash/SmartBCH-Token-List)
 
 Defillama [SmartBCH](https://defillama.com/chain/smartBCH)
 
 SmartBCH [DexScreener](https://dexscreener.com/smartbch)
 
-SmartSLP [Manager](https://smartbch.fountainhead.cash/smartslp/) | [Github](https://github.com/blockparty-sh/smartSLP-manager)
+SmartSLP [Manager](https://smartbch.fountainhead.cash/smartslp/). [Github](https://github.com/blockparty-sh/smartSLP-manager)
 
-[Send2multi](https://send2multi.github.io/) | [Github](https://github.com/send2multi)
+Grafana [Analytics](https://smartbch.fountainhead.cash/grafana/d/GUnTOBGnz/smartbch?orgId=1&refresh=5s)
 
-Blockchain [Cheques](https://www.checkbook.cash/)
+[Send2multi](https://send2multi.github.io/). [Github](https://github.com/send2multi)
 
-GridEx [website](https://www.gridex.cash/) - simple limit orders | [Github](https://github.com/limitorders/limitorders)
+Blockchain [Cheques](https://www.checkbook.cash/). [Github](https://github.com/write-a-check/write-a-check)
 
-Addresses of SEP20 [tokens and DApps](https://sep20tokens.github.io) | [Github](https://github.com/sep20tokens/sep20tokens.github.io)
+Addresses of SEP20 [tokens and DApps](https://sep20tokens.github.io). [Github](https://github.com/sep20tokens/sep20tokens.github.io)
 
-SmartBCH [token list](https://zh.thedev.id/sep20tokens) | [Github](https://github.com/zh/smartbch-token-list)
+SmartBCH [token list](https://zh.thedev.id/sep20tokens). [Github](https://github.com/zh/smartbch-token-list)
 
-Revoke [website](https://revoke.cash/) - ERC20/SEP20 allowance
+Revoke [ERC20/SEP20 allowance](https://revoke.cash/). [Github](https://github.com/rkalis/revoke.cash)
 
-SmartMask [website](https://smartmask.cash) a small web based smartBCH wallet powered by MetaMask | [Github](https://github.com/zquestz/smartmask)
+SmartMask [website](https://smartmask.cash) a small web based smartBCH wallet powered by MetaMask. [Github](https://github.com/zquestz/smartmask)
 
 Token [transfer scanner](http://smartbch.tuxpaper.nu/TokenTransferScanner/)
 
 Contract [verifier](https://www.contractverifier.com)
 
-BCH-SEP20-BCH [bridge](https://hop.cash)
+Hop BCH-SEP20-BCH [bridge](https://hop.cash)
 
-CoinFlex [exchange](https://coinflex.com/) - BCH-SEP20 bridge
+CoinFlex BCH-SEP20 [bridge](https://coinflex.com/). Send BCH to your wallet and withdraw BCH SEP20
+
+Prompt BCH-SEP20 [bridge](https://prompt.cash/bridge)
+
+MISTswap [website](https://mistswap.fi)
 
 MISTswap [Telegram group](https://t.me/MistSwapOfficial)
 
 MISTswap [Discord](https://discord.gg/mistswapdex)
 
-BaNet [SmartBCH NFT collections ](https://ba.net/amkt-smartbch/collections.html)
+BaNet [SmartBCH NFT collections](https://ba.net/amkt-smartbch/collections.html)
 
-Oasis [SMartBCH NFT Marketplace](https://oasis.cash) - [Github](https://github.com/oasis-nft)
+Oasis [SMartBCH NFT Marketplace](https://oasis.cash). [Github](https://github.com/oasis-nft)
 
 ---------------------------------------------------------------------------------------------
 
-## Other
+### Other
 
 OpenZeppelin [Contracts Wizard](https://wizard.openzeppelin.com/)
 
-One Click Dapp [website](https://oneclickdapp.com/) | [Github](https://github.com/oneclickdapp/)
+One Click Dapp [website](https://oneclickdapp.com/). [Github](https://github.com/oneclickdapp/)
 
 ----------------------------------------------------------------------------------------------
