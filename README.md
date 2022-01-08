@@ -72,7 +72,7 @@ Addresses of SEP20 [tokens and DApps](https://sep20tokens.github.io). [Github](h
 
 SmartBCH [token list](https://zh.thedev.id/sep20tokens). [Github](https://github.com/zh/smartbch-token-list)
 
-Revoke [ERC20/SEP20 allowance](https://revoke.cash/). [Github](https://github.com/rkalis/revoke.cash)
+Revoke [ERC20/SEP20 allowance](https://revoke.cash/) - revoke unlimited allowances. [Github](https://github.com/rkalis/revoke.cash)
 
 SmartMask [website](https://smartmask.cash) a small web based smartBCH wallet powered by MetaMask. [Github](https://github.com/zquestz/smartmask)
 
@@ -96,7 +96,7 @@ BaNet [SmartBCH NFT collections](https://ba.net/amkt-smartbch/collections.html)
 
 Oasis [SMartBCH NFT Marketplace](https://oasis.cash). [Github](https://github.com/oasis-nft)
 
-Sample NFTs ERC721 and ERC1155 [contracts](https://github.com/mazetoken/smartBCH-resources/tree/main/contracts)
+Sample SmartBCH NFTs ERC721 (with batchMint function) and ERC1155 [contracts](https://github.com/mazetoken/smartBCH-resources/tree/main/contracts)
 
 _ To add NFT to MetaMask mobile app you need to add the token as usual - „+ Add tokens”, paste NFT contract address, add manually token name and set decimals (tokens of precision) 0. Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and type your NFT ID. You might need to tap „Add” twice _
 
