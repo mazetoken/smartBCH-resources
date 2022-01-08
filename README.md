@@ -96,7 +96,9 @@ BaNet [SmartBCH NFT collections](https://ba.net/amkt-smartbch/collections.html)
 
 Oasis [SMartBCH NFT Marketplace](https://oasis.cash). [Github](https://github.com/oasis-nft)
 
-Sample ERC721 and ERC1155 [contracts](https://github.com/mazetoken/smartBCH-resources/contracts)
+Sample NFTs ERC721 and ERC1155 [contracts](https://github.com/mazetoken/smartBCH-resources/tree/main/contracts)
+
+_ To add NFT to MetaMask mobile app you need to add the token as usual - „+ Add tokens”, paste NFT contract address, add manually token name and set decimals (tokens of precision) 0. Go to NFTs tab and tap „+ Add NFTs”, then paste contract address again and type your NFT ID. You might need to tap „Add” twice _
 
 ---------------------------------------------------------------------------------------------
 
@@ -107,3 +109,5 @@ OpenZeppelin [Contracts Wizard](https://wizard.openzeppelin.com/)
 One Click Dapp [website](https://oneclickdapp.com/). [Github](https://github.com/oneclickdapp/)
 
 ----------------------------------------------------------------------------------------------
+
+[Telegram](https://t.me/mazetokens)
