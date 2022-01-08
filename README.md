@@ -54,9 +54,11 @@ SmartScan - [SmartBCH Explorer)](https://smartscan.cash). [Github](https://githu
 
 MarketCap [website](https://marketcap.cash). [Github](https://github.com/MarketCap-Cash/SmartBCH-Token-List)
 
-Defillama [SmartBCH](https://defillama.com/chain/smartBCH)
+Defillama [SmartBCH](https://defillama.com/chain/smartBCH) - TVL aggregator for DeFi
 
 SmartBCH [DexScreener](https://dexscreener.com/smartbch)
+
+VFat [tools](https://vfat.tools/smartbch/) - Yield farming info
 
 SmartSLP [Manager](https://smartbch.fountainhead.cash/smartslp/). [Github](https://github.com/blockparty-sh/smartSLP-manager)
 
@@ -78,7 +80,7 @@ Token [transfer scanner](http://smartbch.tuxpaper.nu/TokenTransferScanner/)
 
 Contract [verifier](https://www.contractverifier.com)
 
-Hop BCH-SEP20-BCH [bridge](https://hop.cash)
+Hop BCH-SEP20 [bridge](https://hop.cash)
 
 CoinFlex BCH-SEP20 [bridge](https://coinflex.com/). Send BCH to your wallet and withdraw BCH SEP20
 
@@ -93,6 +95,8 @@ MISTswap [Discord](https://discord.gg/mistswapdex)
 BaNet [SmartBCH NFT collections](https://ba.net/amkt-smartbch/collections.html)
 
 Oasis [SMartBCH NFT Marketplace](https://oasis.cash). [Github](https://github.com/oasis-nft)
+
+Sample ERC721 and ERC1155 [contracts](https://github.com/mazetoken/smartBCH-resources/contracts)
 
 ---------------------------------------------------------------------------------------------
 

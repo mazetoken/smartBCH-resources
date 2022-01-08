@@ -1,0 +1,22 @@
+{
+    "name": "TokenName",
+    "description": "My first ERC1155 on SmartBCH",
+    "external_url": "https:example.com",  
+    "image": "https://example.com/img/1.png",
+    "animation_url": "",
+    "attributes": [
+      {
+        "trait_type": "Collection", 
+        "value": ""
+      },
+      {
+        "trait_type": "Level", 
+        "value": ""
+      },
+      {
+        "trait_type": "Generation",
+        "display_type": "", 
+        "value": 1
+      }
+    ]
+  }
